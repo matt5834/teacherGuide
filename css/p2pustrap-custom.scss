@@ -5,15 +5,9 @@
 
 @import "p2pu-css-framework/p2pustrap";
 
-{% if site.jumbotron_color %}
-	$jumbotron-color: {{ site.jumbotron_color }};
-{% else %}
- $jumbotron-color: $p2pu-blue;
-{% endif %}
 
 
-	$jumbotron-image: 'banner.svg';
-{% endif %}
+
 
 @import "common";
 @import "nav";
