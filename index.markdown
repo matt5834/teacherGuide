@@ -12,7 +12,7 @@ This course is part of the larger community/course for teachers offered by [Youn
 It is a wonderful time to be a music educator!
 
 Technology can transform any music classroom into a place where every student, regardless of background or experience, can create original music. In so doing they gain skills and learn concepts that aid in their understanding of how music works. A learner who is given this opportunity becomes independent and can begin to use music as a unique form of expression.
-<button class="button-save large">Big Fat Button</button>  
+<button> Big Fat Button</button>  
 
 ## Just like art class: Sound before Theory
 In the typical visual art class every student begins some kind of creative project (a drawing, painting, sculpture etc.) from the very first class. There is no need for the young learner to develop a facility or technique *before* beginning an art project. They devlop important skills through *doing* the project! So too is this true for the young music learner. 
