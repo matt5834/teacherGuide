@@ -1,6 +1,6 @@
 # basic configuration
 baseurl: /teacherGuide/
-markdown: kramdown
+markdown: redcarpet
 permalink: /:categories/:title/
 
 
