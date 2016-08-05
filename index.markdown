@@ -3,6 +3,12 @@ layout: index
 published: true
 ---
 ###Welcome to Music Works 2 for Teachers! 
+
+<p>
+			<a class="btn btn-danger btn-lg"
+			   href="{{ site.baseurl }}/modules/start/about-this-course/">
+				Get Started! </a>
+		</p>
 This course is part of the larger community/course for teachers offered by [Young Composers & Improvisors Workshop](http://www.yciw.net/1/) called [*Music Composition as Experience.*](http://mce.yciw.net) Be sure to visit [*MCE*](http://mce.yciw.net) to join the community and view the other collections **-Getting Started, Music Works 2, Style, Extensions and Re-imagine.** 
 ## A Progressive Approach to Helping Every Student Compose Music
 
