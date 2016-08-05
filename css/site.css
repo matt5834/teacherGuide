@@ -1,3 +1,8 @@
 .content img {
     max-width: 100%;
 }
+
+div.jumbotron{
+
+	background-image: none !important;
+}
