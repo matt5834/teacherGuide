@@ -27,11 +27,11 @@ Music teachers have always used strategies that foster creativity and make room 
 <iframe src="//player.vimeo.com/video/115414056?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
-		
+<!--		
 ## OK, but who are you guys?
 
 We are a group of teachers, composers and musicians dedicated towards bringing music composition to the typical music classroom. The Young Composers & Improvisors Workshop is a nonprofit 501(c)(3) organization based in New York City. You can read all about us [here.](http://www.yciw.net/1/)
 
 			
 ## I'm in--how do I get started?
-Jump right in and get started [here]({{site.baseurl}}/modules/start/about-this-course/).  You can go at your own pace!
+Jump right in and get started [here]({{site.baseurl}}/modules/start/about-this-course/).  You can go at your own pace!  -->
