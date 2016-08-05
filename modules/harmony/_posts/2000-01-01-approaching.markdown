@@ -22,7 +22,7 @@ To get students started in controlling dissonances in their piece we will use a 
 
 Harmony Rule 1 says:
 
-###Letters a STEP apart in the musical aplphabet =  A Dissonance
+###Letters a STEP apart in the musical aplphabet =  A Dissonance!
 
 ###Letters a SKIP apart in the musical alphabet = A Consonance
 
