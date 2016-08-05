@@ -1,0 +1,41 @@
+---
+title: 2-Skips
+published: true
+---
+
+##Leaps = Consonance or Dissonance?
+
+As you may have noticed there is another option for adding a harmony note. Instead of a Step or a Skip you could of course add a note that is a Leap above or below the melody note. The Leap that we are concerned about here is not simply "anything more than a skip."  These leaps are intervals that are 2 Skips or a Skip **plus** a Step. These intervals, if flipped, can be seen as a skip. 
+
+For example:
+
+
+C below G (2 Skips) could be spelled as G below C (Skip plus a Step).  For simplicity let's refer to this Leap interval only as **2-Skips.**
+
+
+
+<iframe src="http://static.vexflow.com/embed/articles/2581" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+
+
+
+___
+While 2-Skips do not sound so much like a clash they are more ambiguous than a Skip. We will treat 2-Skips as
+dissonances not because they clash but because they are too "open" sounding. Apply the same rules to 2-Skips as you would to Steps:
+
+
++ Resolve a 2-Skip interval to a Skip interval on the very next note.
+
+
++ Do not have two 2-Skip intervals in a row.
+
+
++ Do not leap to a 2-Skip interval.
+
+___
+##Feedback
+Visit this topic here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/2-skips-a-consonance-or-dissonance/59?u=matt"><i class="fa fa-weixin"></i> Discuss!</a>    
+
+Post a response detailing your thoughts and any experiences with this concept. Read and reply to other teacher's ideas about this concept. 
+
+
+

@@ -1,0 +1,17 @@
+---
+title: Title
+published: true
+---
+
+###Choose a Title
+Selecting a thoughtful title for a composition is an important task for every composer. The title serves to help give your listener an impression of what the music might sound like. A great title will actually start the listening experience for the audience before the first note is played!
+
+Choose a title that capture the mood or spirit of your piece. Is there some kind of story that your music conveys? Go to your composition and give it a great title. 
+
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Title My Piece</a>
+
+
+###Directions for Adding a Title
+
+![titleGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/titleDemo.gif)

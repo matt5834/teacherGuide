@@ -1,0 +1,19 @@
+---
+title: Practice Harmony Rule 1
+published: true
+---
+
+##Noteflight Assignment Scores
+Practice using **Harmony Rule 1** a bit more.  
+
+Complete each of these Noteflight assignments by following the directions on the score.
+
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/d44a37887ec55a1af50552fb40499fec93aa9575"target="_blank"><i class="fa fa-music"></i> Putting Notes Together #1</a>
+
+
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5527d63c65be48c8532e4fd45b288d173b04b243"target="_blank"><i class="fa fa-music"></i> Putting Notes Together #2</a>
+
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/41a24f1a58956e12223032b2cb1aaabc91cbd2c5"target="_blank"><i class="fa fa-music"></i> Putting Notes Together Create</a>

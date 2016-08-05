@@ -1,0 +1,31 @@
+---
+title: A Sense of Key
+published: true
+---
+
+##Home Note
+Did you use any sharps or flats in the melody you created?  Did you end on the note C?
+
+Having a sense of key helps a melody be memorable and singable. One way to give a melody a strong sense of key is to end on the home note (in this case C).
+
+Complete this Noteflight assignment to practice ending a melody on the home note C.
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/34403b7f2919eb582f6615e1a2fd76f81ee4d330"target="_blank"><i class="fa fa-music"></i> End on the Home Note</a>
+
+
+##Sharps or Flats
+Often a student will add sharps or flats to her melody. When this happens investigate if they are doing it because they hear some note other than C as the home note. If so, this would be a great moment to talk to them about key signature. If they are randomly adding sharps or flats though it may be useful to help them hear that the sharps or flats take their melody outside of the C "Do-Re-Mi" scale. 
+Practice working with accidentals:
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/2e25648f0d7c7bdcbffcc8a02a5a41e734b816db"target="_blank"><i class="fa fa-music"></i> Add Some Sharps</a>
+
+Create your own melody and practice ending on the home note:
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/f9c4381a880914e0f69d1d3a66a8387ad6391029"target="_blank"><i class="fa fa-music"></i> Create Another Melody</a>
+
+___
+###Classroom Activity
+>Lead the entire class in singing a favorite song (preferably with a melody that ends on the tonic.) Sing the song once normally. Repeat the rendition but this time ask the class to stop singing just before the final note. When you come to the silence prompt them to hear the final note in their "mind's ear."  After a generous pause cue everyone to sing the final note. Facilitate a conversation about why it may have been so easy for most students to clearly hear the final note in their mind. Explore the reasons why there might have been a strong pull to that particular home note. 
+
+##What do you think? What are you seeing?
+Post a response to the Home Note topic here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/giving-a-melody-a-sense-of-key/55?u=matt"><i class="fa fa-weixin"></i> Home Note Feedback</a>   Tell us what you think of this idea of creating a sense of key. How are your students doing with this concept?
+

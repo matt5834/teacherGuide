@@ -1,0 +1,62 @@
+---
+title: Dynamics
+published: true
+---
+
+
+###What Are Dynamics?
+Dyanamics is the musical term for volume. The word "dynamic" can be used in other contexts to mean "constant changing."  This implies that when we set the volume for the instruments to play we also want to control how the volume changes between soft and loud. This will help create excitement in our piece. 
+
+
+###Opening Dynamics
+At the very least every instrument must have some kind of openning dynamic marking so that the musicians know at what volume they should begin. Here is how to add dynamics in Noteflight:
+
+
+<iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/dynamicsDemo2.gif" frameborder="0"></iframe>
+
+
+###Overall Volume
+The composer can certainly specify different dynamics for each instrument at any given point in time but here is a general tip:
+>Decide on the overall volume that you'd like a particular section of your piece to be and give every instrument the same dynamic marking. The ensemble will adjust the parts to make the main melodies come out over the background parts. 
+
+
+###What Are My Choices?
+Here is a listing of the most common dynamic markings in order from softest to loudest:
+
+pp = very soft *(pianissimo)*
+
+p = soft *(piano)*
+
+mp = medium soft *(mezzo piano)*
+
+mf = medium loud *(mezzo forte)*
+
+f = loud *(forte)*
+
+ff = very loud *(fortissimo)*
+
+
+###Crescendos and Decrescendos
+To gradually have instruments get louder you can use the Crescendo symbol.
+
+![crescendo.png]({{site.baseurl}}/img/crescendo.png)
+
+
+To gradually have the instruments get softer you can use the Decrescendo symbol. 
+
+![decrescendo.png]({{site.baseurl}}/img/decrescendo.png)
+
+Here is how to add these symbols in Noteflight:
+
+<iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/crescendoDemo.gif" frameborder="0"></iframe>
+
+
+###Add Dynamics to Your Piece
+Go to your composition and add thoughtful dynamics to your piece.  Be sure to consider how you want the volume to change and use crescendos and decresendos. 
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add Dynamics to Your Piece</a>
+
+
+
+
+

@@ -1,0 +1,11 @@
+---
+title: Badges
+published: true
+---
+
+
+###Apply for a Digital Badge
+Just as your students receive badges for their work you may also apply for a badge!
+
+<iframe id="badge_embed" type="text/html" frameborder="0" height="310" width="210" src="//badges.p2pu.org/en/badge/view/628/embedded/?rendering=normal">
+</iframe>

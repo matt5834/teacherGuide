@@ -1,0 +1,20 @@
+---
+title: Connect 
+excerpt: "Share experiences with fellow teachers. Learn from the experience of other teachers."
+published: true
+---
+
+# Community of Teachers, Composers and Musicians
+As you work through each part of this course you'll connect with other teachers. A big part of YCIW's success is due to our community or teachers, composers and musicians. Each concept and activity has a corresponding discussion thread for you to give feedback as well as read about the suggestions and best practices of other teachers. Think of it as a living professional development resource. 
+
+# Discourse Community
+You'll be posting on various threads at our [YCIW Community.](http://discourse.yciw.net) Be sure to login with the same credentials that you use for yciw.net.
+
+![Image of cole]({{site.baseurl}}/img/discourseA.png)
+
+#Make an Introduction!
+It's time to introduce yourself and say hello. 
+Post a reply to the introduction topic and tell us a bit about yourself.
+<a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/this-is-just-some-place-meant-text/68?u=matt"><i class="fa fa-weixin"></i> Say Hello Here!</a>
+
+

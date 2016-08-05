@@ -1,0 +1,49 @@
+---
+title: Melodic Shape
+published: true
+---
+#Steps, Skips and Leaps!
+Students are going to begin composing even if they do not know music notation! This is the "sound before theory" idea.  **It's all about the musical alphabet!** We can talk about the way notes move from one to the next by simply introducing the musical alphabet:
+
+##Steps = A,B,C...
+##Skips = C,E,G,B,D...
+##Leaps = G,C,F... (anything more than a Skip)
+
+If our goal is to create a melody that is singable and memorable then we can say that most melodies like this have a *smooth melodic shape.* 
+
+How do we make a melody with a smooth melodic shape?
+
+
+Answer:  **Create a melodic shape where most of the notes move by step.**  
+
+Can we prove this?  Yes! I'm sure you can think of some melodies to have your students sing and then look at the notes to see how they move mostly by step. "Twinkle Little Star" or  "Ode to Joy" for example. "Hey Jude" is a great melody that uses a fair amount of skips and leaps but still has mostly stepwise motion. 
+
+#Melodic Direction
+We can reinforce the idea of pitch going higher or lower in relation to the musical alphabet by pointing out that if the melody is going higher in pitch students can say the musical alphabet forward. If the pitch is going lower they can say the musical alphabet backward. For example, if we want a student to think of one note being below another I might ask them to say the alphabet backward to find it. 
+
+##Make a Smooth Melodic Shape
+We begin with letting students create a melodic shape by dragging notes up or down to create a melody that has a smooth melodic shape. Clicking the button below will open a Noteflight exercise score. Login to Noteflight and then follow the directions on the score. 
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"target="_blank"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
+
+
+##Welcome to Noteflight
+After you save your Noteflight score notice a few things (click the Save Cloud):
+![noteflight1.png]({{site.baseurl}}/img/noteflight1.png)
+
+---
+
+
+If you go to your Noteflight Home you'll now see a unique version of this score saved there called "Building a Singable, Memorable Melody, 1.  This happened because the score you opened is a *template score.* ![noteflight2.png]({{site.baseurl}}/img/noteflight2.png)
+All of the scores that your students open in the YCIW curriculum are template scores. After they open them a unique version that is all their own is automatically saved in their Noteflight Home. This is awesome because it allows students to edit their own work quickly and easily. 
+
+---
+Best of all, when you use the YCIW curriculum you'll be set up with a Teacher Noteflight account (you may not have that yet) and you'll be able to automatically see all of your student's scores. Every template score shows teachers a list of all students that have opened that score. You can simply click the students score to open it and leave comments or make edits. 
+![noteflight3.png]({{site.baseurl}}/img/noteflight3.png)
+
+
+
+
+
+
+
