@@ -11,9 +11,7 @@
  $jumbotron-color: $p2pu-blue;
 {% endif %}
 
-{% if site.jumbotron_background_image %}
-	$jumbotron-image: '{{ site.jumbotron_background_image }}';
-{% else %}
+
 	$jumbotron-image: 'banner.svg';
 {% endif %}
 
